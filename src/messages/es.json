@@ -1,0 +1,51 @@
+{
+  "app": {
+    "title": "Aplicación de Tareas",
+    "description": "Gestiona tus tareas eficientemente"
+  },
+  "nav": {
+    "home": "Inicio",
+    "todos": "Tareas",
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "logout": "Cerrar sesión"
+  },
+  "auth": {
+    "loginTitle": "Inicia sesión en tu cuenta",
+    "registerTitle": "Crea una nueva cuenta",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar Contraseña",
+    "name": "Nombre",
+    "loginButton": "Iniciar sesión",
+    "registerButton": "Registrarse",
+    "noAccount": "¿No tienes una cuenta?",
+    "hasAccount": "¿Ya tienes una cuenta?",
+    "registerNow": "Regístrate ahora",
+    "loginNow": "Inicia sesión ahora"
+  },
+  "todos": {
+    "title": "Mis Tareas",
+    "createNew": "Crear nueva tarea",
+    "empty": "Aún no hay tareas. ¡Crea tu primera!",
+    "form": {
+      "title": "Título",
+      "description": "Descripción",
+      "create": "Crear Tarea",
+      "update": "Actualizar Tarea"
+    },
+    "actions": {
+      "edit": "Editar",
+      "delete": "Eliminar",
+      "complete": "Marcar como completada",
+      "incomplete": "Marcar como incompleta"
+    }
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "success": "¡Éxito!",
+    "save": "Guardar",
+    "cancel": "Cancelar"
+  }
+}

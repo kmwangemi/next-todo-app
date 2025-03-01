@@ -1,0 +1,51 @@
+{
+  "app": {
+    "title": "Application de Tâches",
+    "description": "Gérez vos tâches efficacement"
+  },
+  "nav": {
+    "home": "Accueil",
+    "todos": "Tâches",
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "logout": "Déconnexion"
+  },
+  "auth": {
+    "loginTitle": "Connectez-vous à votre compte",
+    "registerTitle": "Créez un nouveau compte",
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "name": "Nom",
+    "loginButton": "Se connecter",
+    "registerButton": "S'inscrire",
+    "noAccount": "Vous n'avez pas de compte?",
+    "hasAccount": "Vous avez déjà un compte?",
+    "registerNow": "Inscrivez-vous maintenant",
+    "loginNow": "Connectez-vous maintenant"
+  },
+  "todos": {
+    "title": "Mes Tâches",
+    "createNew": "Créer une nouvelle tâche",
+    "empty": "Pas encore de tâches. Créez votre première!",
+    "form": {
+      "title": "Titre",
+      "description": "Description",
+      "create": "Créer une Tâche",
+      "update": "Mettre à jour la Tâche"
+    },
+    "actions": {
+      "edit": "Modifier",
+      "delete": "Supprimer",
+      "complete": "Marquer comme terminée",
+      "incomplete": "Marquer comme non terminée"
+    }
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "success": "Succès!",
+    "save": "Enregistrer",
+    "cancel": "Annuler"
+  }
+}

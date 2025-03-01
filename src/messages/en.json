@@ -1,0 +1,51 @@
+{
+  "app": {
+    "title": "Todo App",
+    "description": "Manage your tasks efficiently"
+  },
+  "nav": {
+    "home": "Home",
+    "todos": "Todos",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "auth": {
+    "loginTitle": "Login to your account",
+    "registerTitle": "Create a new account",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "name": "Name",
+    "loginButton": "Login",
+    "registerButton": "Register",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "registerNow": "Register now",
+    "loginNow": "Login now"
+  },
+  "todos": {
+    "title": "My Todos",
+    "createNew": "Create new todo",
+    "empty": "No todos yet. Create your first one!",
+    "form": {
+      "title": "Title",
+      "description": "Description",
+      "create": "Create Todo",
+      "update": "Update Todo"
+    },
+    "actions": {
+      "edit": "Edit",
+      "delete": "Delete",
+      "complete": "Mark as completed",
+      "incomplete": "Mark as incomplete"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!",
+    "save": "Save",
+    "cancel": "Cancel"
+  }
+}
